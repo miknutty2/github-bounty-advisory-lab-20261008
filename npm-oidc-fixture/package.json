@@ -1,0 +1,11 @@
+{
+  "name": "@satori99/ghb-stage-boundary-20261010-942376d4",
+  "version": "0.0.2",
+  "description": "Harmless researcher-owned OIDC event-boundary check",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miknutty2/github-bounty-advisory-lab-20261008.git"
+  },
+  "files": ["marker.txt"]
+}
